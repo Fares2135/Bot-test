@@ -1,7 +1,7 @@
 <?php
 
 $sudo = 5610949952;//ايديك
-$userbot = "Shqaf0bot";
+$userbot = "@Shqaf0bot";
 //=================//
 ob_start();
 $token = '6423184829:AAESRI1vfp4C7ytmjPhM49lY7MMj2X7UEmA';
